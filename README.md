@@ -3,7 +3,7 @@ Google Solution Challenge
 
 step1: open the "google_start.py" file in the python ide
 
-Step3: install python3, html,css in your ide(most preferably use Visual Code studio)
+Step3: install python3, html,css,javascript in your ide(most preferably use Visual Code studio)
 
 Step3: and install the following dependies using- pip install "dependies name" (use cmd for installing dependies)
 
